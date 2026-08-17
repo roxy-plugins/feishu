@@ -1,3 +1,3 @@
 # feishu
 
-Akashic Feishu channel plugin.
+Roxy Feishu channel plugin.
